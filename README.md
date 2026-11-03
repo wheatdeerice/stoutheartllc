@@ -1,2 +1,2 @@
-# stoutheartllc
- private financial recordkeeping application operated by Stoutheart, LLC, a Wyoming limited liability company.
+# Stoutheartllc
+ Private financial recordkeeping application operated by Stoutheart, LLC, a Wyoming limited liability company.
