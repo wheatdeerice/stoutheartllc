@@ -52,7 +52,7 @@ effective date.
 
 ## Contact
 
-Stoutheart, LLC — <CONTACT EMAIL>
+Stoutheart, LLC — suite.band.girl@cloak.id
 
 ---
 
